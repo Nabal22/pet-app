@@ -1,6 +1,9 @@
 # Projet Animaux Domestiques
 
-Ce projet est une application Android conçue pour permettre aux utilisateurs de gérer les activités de leurs animaux domestiques.
+Ce projet est une application Android conçue pour permettre aux utilisateurs de gérer les activités de leurs animaux domestiques. Il a été fait dans le cadre de l'UE Programmation Mobile pendant mon M1 Génial.
+
+## Demo
+[demo-animaux-domestiques.webm](https://github.com/user-attachments/assets/b740cdc2-911d-4b43-8ed1-dccddcf10d1c)
 
 ## Fonctionnalités principales
 
@@ -37,9 +40,6 @@ Ce projet est une application Android conçue pour permettre aux utilisateurs de
 3. Assurez-vous d'utiliser la version Android Studio **Koala** et un émulateur ou appareil compatible.
 4. Compilez et exécutez le projet.
 
-## Critères d'évaluation
-
-- **Fonctionnalité** : Le projet doit être fonctionnel et ergonomique.
-- **Technologies** : Utilisation de technologies modernes enseignées en cours (Jetpack Compose, Room, coroutines, etc.).
-- **Qualité du code** : Architecture modulaire, clarté et lisibilité du code.
-- **Ergonomie** : Interface intuitive et utilisation fluide.
+## Sujet
+Voici le sujet : 
+[Sujet.pdf](https://github.com/user-attachments/files/18521393/Sujet.pdf)
